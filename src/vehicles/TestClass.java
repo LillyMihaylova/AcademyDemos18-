@@ -2,6 +2,7 @@ package vehicles;
 
 public class TestClass {
     public static void main(String[] args) {
+        //comment
         Car car = new Car("BMW 740", 10000);
         car.setYearOfProduction(1997);
 
